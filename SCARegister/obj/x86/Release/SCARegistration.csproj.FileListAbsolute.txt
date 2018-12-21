@@ -1,0 +1,16 @@
+C:\Users\b-tuc\Source\Repos\SCARegistration\WindowsFormsApp2\bin\x86\Release\SCARegistration.exe.config
+C:\Users\b-tuc\Source\Repos\SCARegistration\WindowsFormsApp2\bin\x86\Release\SCARegistration.exe
+C:\Users\b-tuc\Source\Repos\SCARegistration\WindowsFormsApp2\bin\x86\Release\SCARegistration.pdb
+C:\Users\b-tuc\Source\Repos\SCARegistration\WindowsFormsApp2\bin\x86\Release\Geckofx-Core.dll
+C:\Users\b-tuc\Source\Repos\SCARegistration\WindowsFormsApp2\bin\x86\Release\Geckofx-Winforms.dll
+C:\Users\b-tuc\Source\Repos\SCARegistration\WindowsFormsApp2\bin\x86\Release\Geckofx-Core.pdb
+C:\Users\b-tuc\Source\Repos\SCARegistration\WindowsFormsApp2\bin\x86\Release\Geckofx-Winforms.pdb
+C:\Users\b-tuc\Source\Repos\SCARegistration\WindowsFormsApp2\obj\x86\Release\SCARegistration.csprojAssemblyReference.cache
+C:\Users\b-tuc\Source\Repos\SCARegistration\WindowsFormsApp2\obj\x86\Release\WindowsFormsApp2.GetMember.resources
+C:\Users\b-tuc\Source\Repos\SCARegistration\WindowsFormsApp2\obj\x86\Release\WindowsFormsApp2.MainForm.resources
+C:\Users\b-tuc\Source\Repos\SCARegistration\WindowsFormsApp2\obj\x86\Release\SCARegistration.Properties.Resources.resources
+C:\Users\b-tuc\Source\Repos\SCARegistration\WindowsFormsApp2\obj\x86\Release\SCARegistration.csproj.GenerateResource.cache
+C:\Users\b-tuc\Source\Repos\SCARegistration\WindowsFormsApp2\obj\x86\Release\SCARegistration.csproj.CoreCompileInputs.cache
+C:\Users\b-tuc\Source\Repos\SCARegistration\WindowsFormsApp2\obj\x86\Release\SCARegistration.csproj.CopyComplete
+C:\Users\b-tuc\Source\Repos\SCARegistration\WindowsFormsApp2\obj\x86\Release\SCARegistration.exe
+C:\Users\b-tuc\Source\Repos\SCARegistration\WindowsFormsApp2\obj\x86\Release\SCARegistration.pdb
